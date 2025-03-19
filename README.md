@@ -25,6 +25,13 @@ Repositório dedicado aos projetos de estágio na Compass.UOL.
 │   │   ├── imgs/
 │   │   └── scripts/
 │   │       └── user_data.sh
+├── sprint-3/
+│   ├── aws-migration/
+│   │   ├── docs/
+│   │   │   ├── README.md
+│   │   │   └── README.en.md
+│   │   ├── imgs/
+│   │   └── resources/
 ├── README.en.md
 ├── README.md
 └── LICENSE
@@ -60,4 +67,12 @@ Infraestrutura para deploy do WordPress na AWS utilizando Docker.
 - **Docker** 
 - **MySQL**  
 - **Shell Script** 
-- **Git**  
+- **Git** 
+
+---
+
+### Sprint 3 - Migração e Modernização na AWS: De Lift-and-Shift ao Kubernetes com MGN e DMS
+Migração lift-and-shift para AWS seguida de modernização para um ambiente Kubernetes.
+
+- [Documentação em Português](./sprint-3/aws-migration/docs/README.md)
+- [Documentation in English](./sprint-3/aws-migration/docs/README.en.md)
